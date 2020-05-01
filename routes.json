@@ -1,0 +1,12 @@
+[
+  {
+    "method": "GET",
+    "path": "/static/*",
+    "name": "github.com/labstack/echo/v4.common.static.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/",
+    "name": "main"
+  }
+]
